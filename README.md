@@ -26,6 +26,8 @@ Buscando conhecimento além da grade da faculdade para acelerar meu caminho até
 * **Fundamentos de IA e Dados na Alura:** Primeiros passos no mundo dos dados.
 ---
 
+<img src="https://skillicons.dev/icons?i=python,js,git,github,vscode" alt="Tecnologias" />
+
 ### 🌐 Contato:
 
 <a href="https://linkedin.com/in/kenzo-abe-805748410" target="_blank">
