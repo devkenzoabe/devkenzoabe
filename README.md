@@ -28,10 +28,10 @@ Buscando conhecimento além da grade da faculdade para acelerar meu caminho até
 
 ### 🌐 Contato:
 
-<a href="https://linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/kenzo-abe-805748410" target="_blank">
   <img src="https://shields.io" alt="LinkedIn" />
 </a>
 
-<a href="https://instagram.com" target="_blank">
+<a href="https://[instagram.com](https://www.instagram.com/kenzoab_/)" target="_blank">
   <img src="https://shields.io" alt="Instagram" />
 </a>
