@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=devkenzoabe)
+<img src="https://hits.sh/github.com/devkenzoabe.svg?label=Profile%20Views" alt="Profile Views" />
 
 
 
