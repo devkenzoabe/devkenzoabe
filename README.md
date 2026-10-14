@@ -29,6 +29,7 @@ Buscando conhecimento além da grade da faculdade para acelerar meu caminho até
 ### 🧰 Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Tecnologias" />
+---
 
 ### 🌐 Contato:
 
