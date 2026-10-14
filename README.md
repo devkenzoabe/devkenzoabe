@@ -32,6 +32,6 @@ Buscando conhecimento além da grade da faculdade para acelerar meu caminho até
   <img src="https://shields.io" alt="LinkedIn" />
 </a>
 
-<a href="https://[instagram.com](https://www.instagram.com/kenzoab_/)" target="_blank">
+<a href="https://https://www.instagram.com/kenzoab_/" target="_blank">
   <img src="https://shields.io" alt="Instagram" />
 </a>
