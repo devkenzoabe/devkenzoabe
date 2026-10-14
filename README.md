@@ -26,7 +26,9 @@ Buscando conhecimento além da grade da faculdade para acelerar meu caminho até
 * **Fundamentos de IA e Dados na Alura:** Primeiros passos no mundo dos dados.
 ---
 
-<img src="https://skillicons.dev/icons?i=python,js,git,github,vscode" alt="Tecnologias" />
+### 🧰 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Tecnologias" />
 
 ### 🌐 Contato:
 
